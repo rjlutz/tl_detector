@@ -1,7 +1,16 @@
 # tl_detector
+
+## General Workflow
+
+followed https://medium.com/tensorflow/training-and-serving-a-realtime-mobile-object-detector-in-30-minutes-with-cloud-tpus-b78971cf1193
+
+up until the android part
+
 ##Annotation
 
-followed TensorFlow Object Detection Model Training https://gist.github.com/douglasrizzo/c70e186678f126f1b9005ca83d8bd2ce
+followed TensorFlow Object Detection Model Training tutorial https://gist.github.com/douglasrizzo/c70e186678f126f1b9005ca83d8bd2ce
+
+(just the TH record creation part)
 
 - installed labelImg
 - annotated with labelImg
